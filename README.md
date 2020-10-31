@@ -10,4 +10,4 @@ Now start the simulation in proteus.
 You will get the desired results.
 Dont forget to replace the GET API URL of my channel with yours.
 
-[title](https://www.google.com)
+
